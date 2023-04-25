@@ -2,7 +2,8 @@
 
 This Shiny web app calculates your Body Mass Index (BMI) and provides information about your weight status. It's built using R and the Shiny package, with a user-friendly interface and an interactive chart for visualizing BMI values.
 
-![App Screenshot](screenshot.png) *Optional: add a screenshot of your app*
+
+![Capture](https://user-images.githubusercontent.com/25745396/234350207-fa042b9d-7d05-44fa-8666-05a5cc709307.PNG)
 
 ## Features
 
@@ -25,7 +26,8 @@ This Shiny web app calculates your Body Mass Index (BMI) and provides informatio
 4. Open the app.R file in RStudio.
 
 5. Click the "Run App" button in the top right corner of the RStudio editor, or run the following command in the console:
-    ```shiny::runApp()
+    ```R
+    shiny::runApp()
 
 The Shiny BMI Calculator app should now be running in your local RStudio environment.
 
