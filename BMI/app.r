@@ -50,8 +50,7 @@ h1, h2, h3 {
   padding: 15px;
   border-radius: 5px;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-}
-"
+}"
 
 ####################################
 # User Interface #
