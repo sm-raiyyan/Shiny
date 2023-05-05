@@ -55,6 +55,7 @@ h1, h2, h3 {
 ####################################
 # User Interface #
 ####################################
+
 ui <- fluidPage(theme = shinytheme("cerulean"),
                 tags$head(tags$style(HTML(custom_css))),
                 navbarPage("BMI Calculator",
