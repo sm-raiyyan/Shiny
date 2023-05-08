@@ -42,7 +42,7 @@ h1, h2, h3 {
   background-color: #ffffff;
   padding: 15px;
   border-radius: 5px;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  box-shadow: 0 3px 5px rgba(0,0,0,0.1);
 }
 
 .main {
