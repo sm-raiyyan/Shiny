@@ -146,7 +146,7 @@ server <- function(input, output, session) {
         })
       }
     })
-    }
+}
 
 ####################################
 # Create Shiny App #
