@@ -7,7 +7,7 @@ library(shiny)
 library(shinythemes)
 
 # Custom CSS
-custom_css <- 
+custom_css <- "
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   background-color: #f0f3f4;
