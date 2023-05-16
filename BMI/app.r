@@ -53,7 +53,7 @@ h1, h2, h3 {
 }"
 
 ####################################
-# User Interface #
+# User Interface                   #
 ####################################
 
 ui <- fluidPage(theme = shinytheme("cerulean"),
