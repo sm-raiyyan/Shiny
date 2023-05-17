@@ -101,7 +101,7 @@ ui <- fluidPage(theme = shinytheme("cerulean"),
 ) # fluidPage()
 
 ####################################
-# Server #
+# Server                           #
 ####################################
 server <- function(input, output, session) {
   
