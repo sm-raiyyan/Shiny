@@ -100,6 +100,7 @@ ui <- fluidPage(theme = shinytheme("cerulean"),
                 ) # navbarPage()
 ) # fluidPage()
 
+
 ####################################
 # Server                           #
 ####################################
