@@ -114,7 +114,6 @@ server <- function(input, output, session) {
     names(bmi) <- "BMI"
     bmi
   })
-  
  weightStatus <- reactive({
     bmi_value <- datasetInput()[1, "BMI"]
     if (bmi_value < 18.5) {
