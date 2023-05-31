@@ -125,8 +125,7 @@ server <- function(input, output, session) {
     } else {
       "Obesity"
     }
-  })
-    
+  }) 
     # Status/Output Text Box
     output$contents <- renderPrint({
       if (input$submitbutton>0) {
