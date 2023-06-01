@@ -2,7 +2,6 @@
 # BMI Webapp by S.M.Raiyyan                #
 # 4/25/2023                                #
 ############################################
-
 library(shiny)
 library(shinythemes)
 
