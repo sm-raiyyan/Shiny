@@ -4,7 +4,6 @@
 ############################################
 library(shiny)
 library(shinythemes)
-
 # Custom CSS
 custom_css <- "
 body {
